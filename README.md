@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/CyberBoyAyush/better-auth-prisma-template
 
-cd better-auth-prisma-templat
+cd better-auth-prisma-template
 
 pnpm install
 
